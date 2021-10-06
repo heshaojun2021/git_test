@@ -61,3 +61,4 @@ if __name__ == '__main__':
     print('hello1')
     print('master_test')
     print("hot-fix_test")
+    print('push test')
