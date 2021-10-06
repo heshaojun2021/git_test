@@ -59,3 +59,4 @@ class ExcelHandler:
 
 if __name__ == '__main__':
     print('hello1')
+    print('master_test')
